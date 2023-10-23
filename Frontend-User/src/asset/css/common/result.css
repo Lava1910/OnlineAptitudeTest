@@ -1,0 +1,19 @@
+.result-page {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  background-color: #e8e7e7;
+}
+
+@media screen and (max-width: 750px) {
+  .result-page {
+    flex-direction: column;
+    padding: 30px 100px;
+  }
+  .result-page img {
+    margin-top: 20px;
+  }
+}

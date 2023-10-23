@@ -1,0 +1,33 @@
+.quiz-main {
+  width: 100%;
+  min-height: 100vh;
+  padding-top: 100px;
+  background-color: #e8e7e7;
+}
+
+/* 
+.quiz-main__title {
+  width: 80%;
+  margin: 0 auto;
+  font-size: 18px;
+  padding-bottom: 2rem;
+} */
+
+.quiz-main__top {
+  width: 80%;
+  margin: 0 auto 40px auto;
+}
+
+.quiz-main__top button {
+  background-color: #84485C;
+}
+
+.quiz-main__mid {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 40px;
+  padding: 10px;
+}

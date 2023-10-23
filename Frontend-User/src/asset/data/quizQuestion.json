@@ -1,0 +1,283 @@
+{
+  "questions": [
+    {
+      "topic": "general_knowledge",
+      "title": "Khi gặp Thúy Kiều, Kim Trọng trao cho vật gì làm tin?",
+      "options": [
+        {
+          "title": "Dải yếm"
+        },
+        {
+          "title": "Miếng lụa"
+        },
+        {
+          "title": "Châm cài tóc"
+        },
+        {
+          "title": "Chiếc khăn hồng",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "topic": "general_knowledge",
+      "title": "Quốc hiệu đầu tiên của nước ta là gì?",
+      "options": [
+        {
+          "title": "Đại việt"
+        },
+        {
+          "title": "Đại Nam"
+        },
+        {
+          "title": "Văn Lang",
+          "correct": true
+        },
+        {
+          "title": "Đáp án khác"
+        }
+      ]
+    },
+    {
+      "topic": "general_knowledge",
+      "title": "Thác nước nào cao nhất thế giới?",
+      "options": [
+        {
+          "title": "Thác Victoria (Zimbabwe)"
+        },
+        {
+          "title": "Thác Niagara (Canada)"
+        },
+        {
+          "title": "Thác Angel (Venezuela)",
+          "correct": true
+        },
+        {
+          "title": "Thác Iguazu (Argentina và Brazil)"
+        }
+      ]
+    },
+    {
+      "topic": "general_knowledge",
+      "title": "Hươu cao cổ cỏ ăn có không?",
+      "options": [
+        {
+          "title": "Có",
+          "correct": true
+        },
+        {
+          "title": "Không"
+        },
+        {
+          "title": "Cả hai"
+        }
+      ]
+    },
+    {
+      "topic": "general_knowledge",
+      "title": "Tàu Titanic chìm ở Đại Tây Dương vào năm nào?",
+      "options": [
+        {
+          "title": "1991"
+        },
+        {
+          "title": "1990"
+        },
+        {
+          "title": "1993"
+        },
+        {
+          "title": "1992",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "topic": "mathematics",
+      "title": "Cho h+20:20àm số y = 3/ x-2 . Số tiệm cận của đồ thị hàm số là:?",
+      "options": [
+        {
+          "title": "0"
+        },
+        {
+          "title": "2"
+        },
+        {
+          "title": "3"
+        },
+        {
+          "title": "1",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "topic": "mathematics",
+      "title": "Nếu A + B = 76 và A - B = 38 thì A : B = ?",
+      "options": [
+        {
+          "title": "4"
+        },
+        {
+          "title": "3",
+          "correct": true
+        },
+        {
+          "title": "5"
+        },
+        {
+          "title": "6"
+        }
+      ]
+    },
+    {
+      "topic": "mathematics",
+      "title": "1 + 1= ?",
+      "options": [
+        {
+          "title": "0"
+        },
+        {
+          "title": "2",
+          "correct": true
+        },
+        {
+          "title": "3"
+        },
+        {
+          "title": "11"
+        }
+      ]
+    },
+    {
+      "topic": "mathematics",
+      "title": "Nếu 5 con gà ấp 5 quả trứng trong 5 ngày là xong, vậy cần bao nhiêu ngày để 100 con gà ấp xong 100 quả trứng?",
+      "options": [
+        {
+          "title": "5",
+          "correct": true
+        },
+        {
+          "title": "3"
+        },
+        {
+          "title": "1"
+        },
+        {
+          "title": "15"
+        }
+      ]
+    },
+    {
+      "topic": "mathematics",
+      "title": "Cho tập A={1,2,3,4,5,6,7,8,9} Tập B={1,2,3,9,10}, Tập A-B là:",
+      "options": [
+        {
+          "title": "{1,2,3,9}"
+        },
+        {
+          "title": "{4,5,6,7,8}",
+          "correct": true
+        },
+        {
+          "title": "{10}"
+        },
+        {
+          "title": " {1,2,3,9,10}"
+        }
+      ]
+    },
+    {
+      "topic": "computer_technology",
+      "title": "Giao thức được sử dụng phổ biến trên Internet là:",
+      "options": [
+        {
+          "title": "Ethernet"
+        },
+        {
+          "title": "TCP/IP",
+          "correct": true
+        },
+        {
+          "title": "OSI"
+        },
+        {
+          "title": "IEEE"
+        }
+      ]
+    },
+    {
+      "topic": "computer_technology",
+      "title": "Nếu 4 PCs kết nối với nhau thông qua HUB thì cần bao nhiêu địa chỉ IP cho 5 trang thiết bị mạng này?",
+      "options": [
+        {
+          "title": "1"
+        },
+        {
+          "title": "2",
+          "correct": true
+        },
+        {
+          "title": "3"
+        },
+        {
+          "title": "4"
+        }
+      ]
+    },
+    {
+      "topic": "computer_technology",
+      "title": "Độ dài tối đa cho phép khi sử dụng dây cáp mạng UTP là bao nhiêu mét?",
+      "options": [
+        {
+          "title": "10"
+        },
+        {
+          "title": "100",
+          "correct": true
+        },
+        {
+          "title": "200"
+        },
+        {
+          "title": "600"
+        }
+      ]
+    },
+    {
+      "topic": "computer_technology",
+      "title": "Địa chỉ nào là địa chỉ broadcast của lớp 2?",
+      "options": [
+        {
+          "title": "111.111.111.111"
+        },
+        {
+          "title": "AAAA.AAAA.AAAA"
+        },
+        {
+          "title": "255.255.255.255"
+        },
+        {
+          "title": "FFFF.FFFF.FFFF",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "topic": "computer_technology",
+      "title": "Switch là thiết bị hoạt động ở lớp nào của mô hình OSI:",
+      "options": [
+        {
+          "title": "Lớp 4",
+          "correct": true
+        },
+        {
+          "title": "Lớp 3"
+        },
+        {
+          "title": "Lớp 2"
+        }
+      ]
+    }
+  ]
+}

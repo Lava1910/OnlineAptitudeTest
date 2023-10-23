@@ -1,0 +1,32 @@
+.quiz-card {
+  background-color: var(--bg-white);
+  box-shadow: var(--box-shadow);
+  padding: 2rem;
+  margin: 0 20px;
+  text-align: center;
+  border-radius: 5px;
+  border-bottom: 4px solid #ffc107;
+}
+
+.quiz-card__icon {
+  background-color: var(--purple-color);
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.quiz-card__title {
+  font-weight: 600;
+  font-size: 22px;
+  margin: 15px 0;
+  color: #05081c;
+}
+
+.quiz-card__content {
+  font-size: 18px;
+  color: #05081c;
+}

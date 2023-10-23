@@ -1,0 +1,172 @@
+.home-main {
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+/* banner */
+.main-banner {
+  width: 100%;
+  height: 110vh;
+  position: relative;
+  background-image: url(../../images/banner2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn-start {
+  position: absolute;
+  top: 50%;
+  left: 46%;
+  margin: 0 auto;
+  text-align: center;
+  color: var(--txt-white);
+  padding: 10px 30px;
+  border-radius: 10px;
+  text-transform: uppercase;
+  font-size: 22px;
+  cursor: pointer;
+  /* background: #84485C; */
+  background: linear-gradient(to left, #84485C 50%, #83677B 50%);
+  background-size: 200% 100%;
+  background-position: right bottom;
+  transition: all 0.5s ease-out;
+}
+
+.btn-start:hover {
+  background-position: left bottom;
+}
+
+/* .main-banner__title {
+  position: absolute;
+  bottom: 80px;
+  left: 30%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.main-banner__title h1 {
+  font-size: 40px;
+  font-weight: 600;
+  letter-spacing: 0.2rem;
+}
+.main-banner__title h1:nth-child(2n + 1) {
+  color: var(--txt-black);
+}
+.main-banner__title h1:nth-child(2n) {
+  color: var(--main-color);
+} */
+
+.main-banner__titleBot {
+  margin: 30px auto;
+  text-align: center;
+  color: var(--txt-black) !important;
+}
+
+.main-banner__titleBot {
+  color: var(--txt-gray);
+  font-size: 28px;
+  font-weight: 600;
+  margin-top: 20px;
+  line-height: 50px;
+}
+
+/* stats */
+.stats {
+  background-color: var(--main-color);
+  color: white;
+  padding: 2rem 10rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.stats .plus-item h1 {
+  color: var(--txt-white);
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.stats .plus-item p {
+  text-transform: uppercase;
+  color: var(--txt-white);
+  font-size: 1.5rem;
+  font-weight: 500;
+  opacity: 0.9;
+}
+
+/* why-quizzy */
+.why-quizzy {
+  padding: 3rem 5rem 0 3rem;
+  width: 100%;
+  background-color: var(--bg-gray);
+}
+
+.why-quizzy h1 {
+  font-size: 46px;
+  text-align: center;
+  font-weight: 600;
+  letter-spacing: 0.1rem;
+  margin-bottom: 3rem;
+}
+
+.why-quizzy__card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.why-quizzy .see-more {
+  font-style: 20px;
+  padding-top: 5rem;
+  text-align: center;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* contact-us */
+.contact-us {
+  padding: 3rem 5rem;
+  width: 100%;
+  background-color: var(--bg-gray);
+}
+.contact-us h1 {
+  font-size: 46px;
+  text-align: center;
+  font-weight: 600;
+  letter-spacing: 0.1rem;
+  margin-bottom: 3rem;
+}
+
+.contact-us__main {
+  background-color: #ffffffb3;
+  box-shadow: var(--box-shadow);
+  width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.send {
+  width: 100%;
+  border-radius: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 24px;
+  padding: 8px 16px;
+  margin-left: 8px;
+  margin-top: 16px;
+  cursor: pointer;
+  background: #84485C;
+  color: white;
+  display: block;
+  /* background: linear-gradient(to left, #ffc107 50%, #66c887 50%); */
+  background-size: 200% 100%;
+  background-position: right bottom;
+  transition: all 0.5s ease-out;
+}
+
+.send:hover {
+  background-position: left bottom;
+}

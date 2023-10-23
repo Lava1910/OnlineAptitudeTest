@@ -1,0 +1,13 @@
+How to configure and run
+
++ Open solution OnlineAptitudeTestDB.sln in Visual Studio 2022
++ Set startup project is OnlineAptitudeTestDB.Data
++ Change connection string in Appsetting.json in OnlineAptitudeTestDB.Data project
++ Open Tools --> Nuget Package Manager --> Package Manager Console in Visual Studio
++ Run Update-database and Enter.
++ After migrate database successful,press F5
++ Open folder Frontend-Admin and Frontend-User in Visual Studio Code 
++ Change the URL of file api.js in folder Store 
++ Open terminal and run "npm i" and Enter
++ After Node Package Manager Install is done, run npm start and Enter
+

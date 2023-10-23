@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .frame-BG {
+    @apply rounded-md border border-white bg-white/70 p-4 shadow-lg backdrop-blur-lg dark:border-white/10 dark:bg-white/5 dark:shadow-gray-800;
+  }
+
+  .score-row {
+    @apply mb-2 grid grid-cols-4 gap-1 [&>*]:text-center [&>*]:font-semibold [&>*]:uppercase;
+  }
+}
